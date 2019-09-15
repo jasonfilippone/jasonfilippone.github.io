@@ -22,13 +22,9 @@ h1 {
   color: red;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+#computer {
+  margin-right: 150px;
 }
-
 #pictures {
   margin-right: 20px;
 }
