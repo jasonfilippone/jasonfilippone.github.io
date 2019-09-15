@@ -2,6 +2,7 @@
   background-color:#7E8D8D;}
 #aboutbackground{
   background-image: url("myBackground.jpg");
+  color:red;
 }
 
 #nav-table { width:800px;}
