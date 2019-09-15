@@ -2,9 +2,11 @@
   background-color:#7E8D8D;}
 #aboutbackground{
   background-image: url("myBackground.jpg");
-  color:red;
 }
 
+#abouttext{
+  color:red;
+}
 #nav-table { width:800px;}
 .nav-td { width: 200px; text-align:center;}
 p {
